@@ -7,6 +7,11 @@ logs: "according to operating system - three easy pices"
 logs_descripe: "I am write the blogs for a few months. In the time, I have gave up and losted enthusiasm many times"
 ---
 
+-:PROPERTIES:
+:ID:       7dd96312-bc82-4342-977a-256753a9229a
+:END:
+
+
 ## Process {#process}
 
 :ROAM_ALIASES: OS process
